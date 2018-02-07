@@ -1,6 +1,6 @@
 # BAMazon
 
-Created during module 12 of the University of Denver Web Dev Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
+Created during module-12 of the University of Denver's Web Dev Bootcamp 2017/2018. The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 ## Getting Started
 
