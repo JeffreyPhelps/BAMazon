@@ -1,3 +1,5 @@
+// Jeffrey Phelps - DU Web Dev Bootcamp 2017/2018 - Mod 12 Homework (Node Bamazon)
+
 //require mysql and inquirer
 var mysql = require('mysql');
 var inquirer = require('inquirer');
