@@ -1,6 +1,6 @@
 # BAMazon
 
-Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
+Created during module 12 of the University of Denver Web Dev Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Ama
       * If there is a sufficient amount of the product in stock, it will return the total for that purchase.
       * However, if there is not enough of the product in stock, it will tell the user that there isn't enough of the product.
       * If the purchase goes through, it updates the stock quantity to reflect the purchase.
-      * It will also update the product sales in the department table.
+      * It will also update the product sales in the department MySQL database table.
 
 -----------------------
 
@@ -63,14 +63,6 @@ Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Ama
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
 
-## Demo Videos
-
-* BamazonCustomer.js (https://www.youtube.com/watch?v=p-QBusgtjKE)
-
-* BamazonManager.js (https://www.youtube.com/watch?v=Go828nrwaLY)
-
-* ExecutiveManager.js (https://www.youtube.com/watch?v=W6P2YpXGDq8)
-
 ## Technologies used
 - Node.js
 - Inquire NPM Package (https://www.npmjs.com/package/inquirer)
@@ -91,4 +83,4 @@ Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Ama
 
 ## Authors
 
-* **Stefanie Ding** - *JS/MySQL/Node.js* - [Stefanie Ding](https://github.com/StefanieDing)
+* **Jeffrey Phelps** - *JS/MySQL/Node.js* - [Jeffrey Phelps](https://github.com/JeffreyPhelps)
